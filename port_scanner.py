@@ -19,3 +19,24 @@ if choice==0:
 else:
     port=int(input("Enter Port to scan : "))
     port_scan(address,port)
+
+
+
+
+    
+
+
+    
+
+
+    
+
+    
+
+
+
+    
+
+
+
+
